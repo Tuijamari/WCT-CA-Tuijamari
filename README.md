@@ -2,11 +2,11 @@
 2022-10-09_CA_WCT_Tuijamari Helgeland_ pdf
 <!DOCTYPE html><html>
  <head>
- <title>My first website</title>
+ <title>web-security-answer/title>
  </head>
  <body>
- <h1>Hello world!</h1>
- <p>Welcome to my first website.</p>
+ <h1>WCT_CA</h1>
+ <p>.</p>
  <h2>Web Security</h2>
  <p id="web-security-question">How would you advise a potential 
 client to secure his/her website from web security attacks? Note: the 
